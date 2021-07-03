@@ -1,5 +1,5 @@
 link to project on heroku ---  https://smart-disease-predictor.herokuapp.com/
-link to youtube video ----
+
  
 group members
 
